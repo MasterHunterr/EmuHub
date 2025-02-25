@@ -63,7 +63,7 @@
     "image_url": "https://avatars.githubusercontent.com/u/40145098?s=200&v=4",
     "title": "Cemu",
     "description": "محاكي الوي يو",
-    "url": "https://rpcs3.net/",
+    "url": "https://cemu.info/",
     "download_url": "https://github.com/cemu-project/Cemu/releases/download/v2.6/cemu-2.6-windows-x64.zip",
     "requirements_urls": ["https://aka.ms/vs/16/release/vc_redist.x64.exe"]
   },
