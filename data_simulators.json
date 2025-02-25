@@ -1,115 +1,175 @@
 [
   {
-    "image_url": "https://pbs.twimg.com/profile_images/1515368573539172354/sdW6TE01_400x400.jpg",
-    "title": "rpcs3",
-    "description": "محاكي سوني 3",
-    "url": "https://rpcs3.net/",
-    "download_url": "https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-4794558c08dc931a079537a5b2a47cfff43e0818/rpcs3-v0.0.34-17510-4794558c_win64.7z",
-    "requirements_urls": ["http://dus01.ps3.update.playstation.net/update/ps3/image/us/2024_0227_3694eb3fb8d9915c112e6ab41a60c69f/PS3UPDAT.PUP"]
+    "image_url": "https://x.com/shadps4/photo",
+    "title": "shadps4",
+    "description": "محاكي سوني 4",
+    "url": "https://shadps4.net/",
+    "download_url": "https://github.com/shadps4-emu/shadPS4/releases/download/v.0.6.0/shadps4-win64-qt-0.6.0.zip",
+    "requirements_urls": [""]
   },
-    {
+  {
     "image_url": "https://pbs.twimg.com/profile_images/1515368573539172354/sdW6TE01_400x400.jpg",
     "title": "rpcs3",
     "description": "محاكي سوني 3",
     "url": "https://rpcs3.net/",
     "download_url": "https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-4794558c08dc931a079537a5b2a47cfff43e0818/rpcs3-v0.0.34-17510-4794558c_win64.7z",
-    "requirements_urls": ["http://dus01.ps3.update.playstation.net/update/ps3/image/us/2024_0227_3694eb3fb8d9915c112e6ab41a60c69f/PS3UPDAT.PUP"]
+    "requirements_urls": [
+      "http://dus01.ps3.update.playstation.net/update/ps3/image/us/2024_0227_3694eb3fb8d9915c112e6ab41a60c69f/PS3UPDAT.PUP"
+    ]
   },
-    {
+  {
     "image_url": "https://pbs.twimg.com/profile_images/1515368573539172354/sdW6TE01_400x400.jpg",
     "title": "rpcs3",
     "description": "محاكي سوني 3",
     "url": "https://rpcs3.net/",
     "download_url": "https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-4794558c08dc931a079537a5b2a47cfff43e0818/rpcs3-v0.0.34-17510-4794558c_win64.7z",
-    "requirements_urls": ["http://dus01.ps3.update.playstation.net/update/ps3/image/us/2024_0227_3694eb3fb8d9915c112e6ab41a60c69f/PS3UPDAT.PUP"]
+    "requirements_urls": [
+      "http://dus01.ps3.update.playstation.net/update/ps3/image/us/2024_0227_3694eb3fb8d9915c112e6ab41a60c69f/PS3UPDAT.PUP"
+    ]
   },
-    {
-    "image_url": "https://pbs.twimg.com/profile_images/1515368573539172354/sdW6TE01_400x400.jpg",
-    "title": "rpcs3",
-    "description": "محاكي سوني 3",
-    "url": "https://rpcs3.net/",
-    "download_url": "https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-4794558c08dc931a079537a5b2a47cfff43e0818/rpcs3-v0.0.34-17510-4794558c_win64.7z",
-    "requirements_urls": ["http://dus01.ps3.update.playstation.net/update/ps3/image/us/2024_0227_3694eb3fb8d9915c112e6ab41a60c69f/PS3UPDAT.PUP"]
+  {
+    "image_url": "https://github.com/MasterHunterr/xsimulators/blob/main/2.png?raw=true",
+    "title": "PCSX2",
+    "description": "محاكي سوني 2",
+    "url": "https://pcsx2.net/",
+    "download_url": "https://github.com/PCSX2/pcsx2/releases/download/v2.2.0/pcsx2-v2.2.0-windows-x64-installer.exe",
+    "requirements_urls": [
+      "https://github.com/MasterHunterr/xsimulators/raw/refs/heads/main/bios.zip"
+    ]
   },
-    {
-    "image_url": "https://pbs.twimg.com/profile_images/1515368573539172354/sdW6TE01_400x400.jpg",
-    "title": "rpcs3",
-    "description": "محاكي سوني 3",
-    "url": "https://rpcs3.net/",
-    "download_url": "https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-4794558c08dc931a079537a5b2a47cfff43e0818/rpcs3-v0.0.34-17510-4794558c_win64.7z",
-    "requirements_urls": ["http://dus01.ps3.update.playstation.net/update/ps3/image/us/2024_0227_3694eb3fb8d9915c112e6ab41a60c69f/PS3UPDAT.PUP"]
+  {
+    "image_url": "https://duckstation.org/assets/img/smol.png",
+    "title": "DuckStation",
+    "description": "محاكي سوني 1",
+    "url": "https://duckstation.org",
+    "download_url": "https://github.com/stenzek/duckstation/releases/download/latest/duckstation-windows-x64-release.zip",
+    "requirements_urls": ["https://aka.ms/vs/17/release/vc_redist.x64.exe"]
   },
-    {
-    "image_url": "https://pbs.twimg.com/profile_images/1515368573539172354/sdW6TE01_400x400.jpg",
-    "title": "rpcs3",
-    "description": "محاكي سوني 3",
-    "url": "https://rpcs3.net/",
-    "download_url": "https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-4794558c08dc931a079537a5b2a47cfff43e0818/rpcs3-v0.0.34-17510-4794558c_win64.7z",
-    "requirements_urls": ["http://dus01.ps3.update.playstation.net/update/ps3/image/us/2024_0227_3694eb3fb8d9915c112e6ab41a60c69f/PS3UPDAT.PUP"]
+  {
+    "image_url": "https://www.ppsspp.org/static/img/platform/ppsspp-icon.png",
+    "title": "PPSSPP",
+    "description": "محاكي بي اس بي",
+    "url": "https://www.ppsspp.org/",
+    "download_url": "https://www.ppsspp.org/files/1_18_1/PPSSPPSetup.exe",
+    "requirements_urls": [""]
   },
-    {
-    "image_url": "https://pbs.twimg.com/profile_images/1515368573539172354/sdW6TE01_400x400.jpg",
-    "title": "rpcs3",
-    "description": "محاكي سوني 3",
-    "url": "https://rpcs3.net/",
-    "download_url": "https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-4794558c08dc931a079537a5b2a47cfff43e0818/rpcs3-v0.0.34-17510-4794558c_win64.7z",
-    "requirements_urls": ["http://dus01.ps3.update.playstation.net/update/ps3/image/us/2024_0227_3694eb3fb8d9915c112e6ab41a60c69f/PS3UPDAT.PUP"]
+  {
+    "image_url": "https://vita3k.org/img/logo.svg",
+    "title": "Vita3K",
+    "description": "محاكي الفيتا",
+    "url": "https://vita3k.org/",
+    "download_url": "https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip?time=1740514062322",
+    "requirements_urls": [""]
   },
-    {
-    "image_url": "https://pbs.twimg.com/profile_images/1515368573539172354/sdW6TE01_400x400.jpg",
-    "title": "rpcs3",
-    "description": "محاكي سوني 3",
-    "url": "https://rpcs3.net/",
-    "download_url": "https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-4794558c08dc931a079537a5b2a47cfff43e0818/rpcs3-v0.0.34-17510-4794558c_win64.7z",
-    "requirements_urls": ["http://dus01.ps3.update.playstation.net/update/ps3/image/us/2024_0227_3694eb3fb8d9915c112e6ab41a60c69f/PS3UPDAT.PUP"]
+  {
+    "image_url": "https://dolphin-emu.org/m/static/img/logo-blue.5ccd26e95428.png",
+    "title": "Dolphin",
+    "description": "محاكي الوي",
+    "url": "https://dolphin-emu.org/",
+    "download_url": "https://dl.dolphin-emu.org/releases/2412/dolphin-2412-x64.7z",
+    "requirements_urls": [""]
   },
-    {
-    "image_url": "https://pbs.twimg.com/profile_images/1515368573539172354/sdW6TE01_400x400.jpg",
-    "title": "rpcs3",
-    "description": "محاكي سوني 3",
+  {
+    "image_url": "https://avatars.githubusercontent.com/u/40145098?s=200&v=4",
+    "title": "Cemu",
+    "description": "محاكي الوي يو",
     "url": "https://rpcs3.net/",
-    "download_url": "https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-4794558c08dc931a079537a5b2a47cfff43e0818/rpcs3-v0.0.34-17510-4794558c_win64.7z",
-    "requirements_urls": ["http://dus01.ps3.update.playstation.net/update/ps3/image/us/2024_0227_3694eb3fb8d9915c112e6ab41a60c69f/PS3UPDAT.PUP"]
+    "download_url": "https://github.com/cemu-project/Cemu/releases/download/v2.6/cemu-2.6-windows-x64.zip",
+    "requirements_urls": ["https://aka.ms/vs/16/release/vc_redist.x64.exe"]
   },
-    {
-    "image_url": "https://pbs.twimg.com/profile_images/1515368573539172354/sdW6TE01_400x400.jpg",
-    "title": "rpcs3",
-    "description": "محاكي سوني 3",
-    "url": "https://rpcs3.net/",
-    "download_url": "https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-4794558c08dc931a079537a5b2a47cfff43e0818/rpcs3-v0.0.34-17510-4794558c_win64.7z",
-    "requirements_urls": ["http://dus01.ps3.update.playstation.net/update/ps3/image/us/2024_0227_3694eb3fb8d9915c112e6ab41a60c69f/PS3UPDAT.PUP"]
+  {
+    "image_url": "https://yuzu-emulator.net/wp-content/uploads/2024/07/Yuzu-Logo-2-83x92.png",
+    "title": "Yuzu",
+    "description": "محاكي نينتندو سويتش",
+    "url": "https://yuzu-emulator.net/",
+    "download_url": "https://usc1.contabostorage.com/b14312a874cd4fb8812c5c8860564d3a:downloads/yuzu-1734.zip",
+    "requirements_urls": [
+      "https://aka.ms/vs/17/release/vc_redist.x86.exe , https://usc1.contabostorage.com/b14312a874cd4fb8812c5c8860564d3a:prodkeys/Emuyuzu-Prod-keys_v19.0.0.ziphttps://usc1.contabostorage.com/b14312a874cd4fb8812c5c8860564d3a:prodkeys/Emuyuzu-Prod-keys_v19.0.0.zip"
+    ]
   },
-    {
-    "image_url": "https://pbs.twimg.com/profile_images/1515368573539172354/sdW6TE01_400x400.jpg",
-    "title": "rpcs3",
-    "description": "محاكي سوني 3",
-    "url": "https://rpcs3.net/",
-    "download_url": "https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-4794558c08dc931a079537a5b2a47cfff43e0818/rpcs3-v0.0.34-17510-4794558c_win64.7z",
-    "requirements_urls": ["http://dus01.ps3.update.playstation.net/update/ps3/image/us/2024_0227_3694eb3fb8d9915c112e6ab41a60c69f/PS3UPDAT.PUP"]
+  {
+    "image_url": "https://avatars.githubusercontent.com/u/192939710?s=48&v=4",
+    "title": "Ryujinx",
+    "description": "محاكي نينتندو سويتش",
+    "url": "https://github.com/Ryubing/Ryujinx",
+    "download_url": "https://github.com/Ryubing/Ryujinx/releases/download/1.2.82/ryujinx-1.2.82-win_x64.ziphttps://github.com/Ryubing/Ryujinx/releases/download/1.2.82/ryujinx-1.2.82-win_x64.zip",
+    "requirements_urls": [
+      "https://aka.ms/vs/17/release/vc_redist.x86.exe , https://usc1.contabostorage.com/b14312a874cd4fb8812c5c8860564d3a:prodkeys/Emuyuzu-Prod-keys_v19.0.0.ziphttps://usc1.contabostorage.com/b14312a874cd4fb8812c5c8860564d3a:prodkeys/Emuyuzu-Prod-keys_v19.0.0.zip"
+    ]
   },
-    {
-    "image_url": "https://pbs.twimg.com/profile_images/1515368573539172354/sdW6TE01_400x400.jpg",
-    "title": "rpcs3",
-    "description": "محاكي سوني 3",
-    "url": "https://rpcs3.net/",
-    "download_url": "https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-4794558c08dc931a079537a5b2a47cfff43e0818/rpcs3-v0.0.34-17510-4794558c_win64.7z",
-    "requirements_urls": ["http://dus01.ps3.update.playstation.net/update/ps3/image/us/2024_0227_3694eb3fb8d9915c112e6ab41a60c69f/PS3UPDAT.PUP"]
+  {
+    "image_url": "https://suyu.dev/static/brand/suyu__Logo-Horizontal.svg",
+    "title": "SUYU",
+    "description": "محاكي نينتندو سويتش",
+    "url": "https://suyu.dev/",
+    "download_url": "https://git.suyu.dev/suyu/suyu/releases/download/v0.0.3/Suyu-Windows_x86_64.tar.xz",
+    "requirements_urls": [
+      "https://aka.ms/vs/17/release/vc_redist.x86.exe , https://usc1.contabostorage.com/b14312a874cd4fb8812c5c8860564d3a:prodkeys/Emuyuzu-Prod-keys_v19.0.0.ziphttps://usc1.contabostorage.com/b14312a874cd4fb8812c5c8860564d3a:prodkeys/Emuyuzu-Prod-keys_v19.0.0.zip"
+    ]
   },
-    {
-    "image_url": "https://pbs.twimg.com/profile_images/1515368573539172354/sdW6TE01_400x400.jpg",
-    "title": "rpcs3",
-    "description": "محاكي سوني 3",
-    "url": "https://rpcs3.net/",
-    "download_url": "https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-4794558c08dc931a079537a5b2a47cfff43e0818/rpcs3-v0.0.34-17510-4794558c_win64.7z",
-    "requirements_urls": ["http://dus01.ps3.update.playstation.net/update/ps3/image/us/2024_0227_3694eb3fb8d9915c112e6ab41a60c69f/PS3UPDAT.PUP"]
+  {
+    "image_url": "https://i0.wp.com/citra-emulator.com/wp-content/uploads/2024/03/citra-icon.png?w=400&ssl=1",
+    "title": "Citra",
+    "description": "محاكي 3DS",
+    "url": "https://citra-emulator.com/",
+    "download_url": "https://github.com/PabloMK7/citra/releases/download/r608383e/citra-windows-msvc-20240927-608383e.zip",
+    "requirements_urls": [""]
   },
-    {
-    "image_url": "https://pbs.twimg.com/profile_images/1515368573539172354/sdW6TE01_400x400.jpg",
-    "title": "rpcs3",
-    "description": "محاكي سوني 3",
-    "url": "https://rpcs3.net/",
-    "download_url": "https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-4794558c08dc931a079537a5b2a47cfff43e0818/rpcs3-v0.0.34-17510-4794558c_win64.7z",
-    "requirements_urls": ["http://dus01.ps3.update.playstation.net/update/ps3/image/us/2024_0227_3694eb3fb8d9915c112e6ab41a60c69f/PS3UPDAT.PUP"]
+  {
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Desmume.png",
+    "title": "DeSmuME",
+    "description": "محاكي Nintendo DS",
+    "url": "https://desmume.org/",
+    "download_url": "https://github.com/TASEmulators/desmume/releases/download/release_0_9_13/desmume-0.9.13-win64.zip",
+    "requirements_urls": [""]
+  },
+  {
+    "image_url": "https://avatars.githubusercontent.com/u/4994272?s=48&v=4",
+    "title": "Project64",
+    "description": "محاكي Nintendo 64",
+    "url": "https://www.pj64-emu.com/",
+    "download_url": "https://www.pj64-emu.com/file/setup-project64-3-0-1-5664-2df3434/",
+    "requirements_urls": [""]
+  },
+  {
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Desmume.png",
+    "title": "DeSmuME",
+    "description": "محاكي Nintendo DS",
+    "url": "https://desmume.org/",
+    "download_url": "https://github.com/TASEmulators/desmume/releases/download/release_0_9_13/desmume-0.9.13-win64.zip",
+    "requirements_urls": [""]
+  },
+  {
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Desmume.png",
+    "title": "DeSmuME",
+    "description": "محاكي Nintendo DS",
+    "url": "https://desmume.org/",
+    "download_url": "https://github.com/TASEmulators/desmume/releases/download/release_0_9_13/desmume-0.9.13-win64.zip",
+    "requirements_urls": [""]
+  },
+  {
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Desmume.png",
+    "title": "DeSmuME",
+    "description": "محاكي Nintendo DS",
+    "url": "https://desmume.org/",
+    "download_url": "https://github.com/TASEmulators/desmume/releases/download/release_0_9_13/desmume-0.9.13-win64.zip",
+    "requirements_urls": [""]
+  },
+  {
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Desmume.png",
+    "title": "DeSmuME",
+    "description": "محاكي Nintendo DS",
+    "url": "https://desmume.org/",
+    "download_url": "https://github.com/TASEmulators/desmume/releases/download/release_0_9_13/desmume-0.9.13-win64.zip",
+    "requirements_urls": [""]
+  },
+  {
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Desmume.png",
+    "title": "DeSmuME",
+    "description": "محاكي Nintendo DS",
+    "url": "https://desmume.org/",
+    "download_url": "https://github.com/TASEmulators/desmume/releases/download/release_0_9_13/desmume-0.9.13-win64.zip",
+    "requirements_urls": [""]
   },
   {
     "image_url": "رابط_الصورة_2",
@@ -118,5 +178,5 @@
     "url": "رابط_تفاصيل_المحاكي_2",
     "download_url": "رابط_تنزيل_المحاكي_2",
     "requirements_urls": ["رابط_المتطلب_1_2", "رابط_المتطلب_2_2"]
-  }  
+  }
 ]
