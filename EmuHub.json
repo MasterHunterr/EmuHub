@@ -33,7 +33,10 @@
     "description": "Emulator PS1",
     "url": "https://duckstation.org",
     "download_url": "https://github.com/stenzek/duckstation/releases/download/latest/duckstation-windows-x64-release.zip",
-    "requirements_urls": ["https://aka.ms/vs/17/release/vc_redist.x64.exe"]
+    "requirements_urls": [
+      "https://aka.ms/vs/17/release/vc_redist.x64.exe",
+      "https://github.com/MasterHunterr/EmuHub/raw/refs/heads/main/ps1-bios.zip"
+    ]
   },
   {
     "image_url": "https://www.ppsspp.org/static/img/platform/ppsspp-icon.png",
