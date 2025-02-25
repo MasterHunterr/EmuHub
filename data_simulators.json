@@ -74,7 +74,9 @@
     "url": "https://yuzu-emulator.net/",
     "download_url": "https://usc1.contabostorage.com/b14312a874cd4fb8812c5c8860564d3a:downloads/yuzu-1734.zip",
     "requirements_urls": [
-      "https://aka.ms/vs/17/release/vc_redist.x86.exe , https://usc1.contabostorage.com/b14312a874cd4fb8812c5c8860564d3a:prodkeys/Emuyuzu-Prod-keys_v19.0.0.ziphttps://usc1.contabostorage.com/b14312a874cd4fb8812c5c8860564d3a:prodkeys/Emuyuzu-Prod-keys_v19.0.0.zip"
+      "https://aka.ms/vs/17/release/vc_redist.x86.exe",
+      "https://usc1.contabostorage.com/b14312a874cd4fb8812c5c8860564d3a:prodkeys/Emuyuzu-Prod-keys_v19.0.0.ziphttps://usc1.contabostorage.com/b14312a874cd4fb8812c5c8860564d3a:prodkeys/Emuyuzu-Prod-keys_v19.0.0.zip",
+      "https://archive.org/download/firmware-18.1.0/Firmware%2018.1.0.zip"
     ]
   },
   {
@@ -84,7 +86,9 @@
     "url": "https://github.com/Ryubing/Ryujinx",
     "download_url": "https://github.com/Ryubing/Ryujinx/releases/download/1.2.82/ryujinx-1.2.82-win_x64.ziphttps://github.com/Ryubing/Ryujinx/releases/download/1.2.82/ryujinx-1.2.82-win_x64.zip",
     "requirements_urls": [
-      "https://aka.ms/vs/17/release/vc_redist.x86.exe , https://usc1.contabostorage.com/b14312a874cd4fb8812c5c8860564d3a:prodkeys/Emuyuzu-Prod-keys_v19.0.0.ziphttps://usc1.contabostorage.com/b14312a874cd4fb8812c5c8860564d3a:prodkeys/Emuyuzu-Prod-keys_v19.0.0.zip"
+      "https://aka.ms/vs/17/release/vc_redist.x86.exe",
+      "https://usc1.contabostorage.com/b14312a874cd4fb8812c5c8860564d3a:prodkeys/Emuyuzu-Prod-keys_v19.0.0.ziphttps://usc1.contabostorage.com/b14312a874cd4fb8812c5c8860564d3a:prodkeys/Emuyuzu-Prod-keys_v19.0.0.zip",
+      "https://archive.org/download/firmware-18.1.0/Firmware%2018.1.0.zip"
     ]
   },
   {
@@ -94,7 +98,9 @@
     "url": "https://suyu.dev/",
     "download_url": "https://git.suyu.dev/suyu/suyu/releases/download/v0.0.3/Suyu-Windows_x86_64.tar.xz",
     "requirements_urls": [
-      "https://aka.ms/vs/17/release/vc_redist.x86.exe , https://usc1.contabostorage.com/b14312a874cd4fb8812c5c8860564d3a:prodkeys/Emuyuzu-Prod-keys_v19.0.0.ziphttps://usc1.contabostorage.com/b14312a874cd4fb8812c5c8860564d3a:prodkeys/Emuyuzu-Prod-keys_v19.0.0.zip"
+      "https://aka.ms/vs/17/release/vc_redist.x86.exe",
+      "https://usc1.contabostorage.com/b14312a874cd4fb8812c5c8860564d3a:prodkeys/Emuyuzu-Prod-keys_v19.0.0.ziphttps://usc1.contabostorage.com/b14312a874cd4fb8812c5c8860564d3a:prodkeys/Emuyuzu-Prod-keys_v19.0.0.zip",
+      "https://archive.org/download/firmware-18.1.0/Firmware%2018.1.0.zip"
     ]
   },
   {
