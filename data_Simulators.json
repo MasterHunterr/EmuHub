@@ -1,0 +1,18 @@
+[
+  {
+    "image_url": "https://pbs.twimg.com/profile_images/1515368573539172354/sdW6TE01_400x400.jpg",
+    "title": "rpcs3",
+    "description": "محاكي سوني 3",
+    "url": "https://rpcs3.net/",
+    "download_url": "https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-4794558c08dc931a079537a5b2a47cfff43e0818/rpcs3-v0.0.34-17510-4794558c_win64.7z",
+    "requirements_urls": ["http://dus01.ps3.update.playstation.net/update/ps3/image/us/2024_0227_3694eb3fb8d9915c112e6ab41a60c69f/PS3UPDAT.PUP"]
+  },
+  {
+    "image_url": "رابط_الصورة_2",
+    "title": "عنوان_المحاكي_2",
+    "description": "وصف_المحاكي_2",
+    "url": "رابط_تفاصيل_المحاكي_2",
+    "download_url": "رابط_تنزيل_المحاكي_2",
+    "requirements_urls": ["رابط_المتطلب_1_2", "رابط_المتطلب_2_2"]
+  }
+]
