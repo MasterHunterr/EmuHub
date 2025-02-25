@@ -4,8 +4,7 @@
     "title": "shadps4",
     "description": "Emulator PS4",
     "url": "https://shadps4.net/",
-    "download_url": "https://github.com/shadps4-emu/shadPS4/releases/download/v.0.6.0/shadps4-win64-qt-0.6.0.zip",
-    "requirements_urls": [""]
+    "download_url": "https://github.com/shadps4-emu/shadPS4/releases/download/v.0.6.0/shadps4-win64-qt-0.6.0.zip"
   },
   {
     "image_url": "https://pbs.twimg.com/profile_images/1515368573539172354/sdW6TE01_400x400.jpg",
