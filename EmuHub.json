@@ -128,7 +128,7 @@
     "requirements_urls": [""]
   },
   {
-    "image_url": "https://img.utdstc.com/icon/905/35a/90535a1f7b0ee571120e4a1a19067ab24b43b3702fe5870095bc7b689d575460:200",
+    "image_url": "https://hips.hearstapps.com/bpc.h-cdn.co/assets/17/35/fceux.jpg?crop=1xw:1.0xh;center,top&resize=980:*",
     "title": "FCEUX",
     "description": "محاكي Nintendo DS",
     "url": "https://fceux.com/web/download.html",
@@ -144,7 +144,7 @@
     "requirements_urls": [""]
   },
   {
-    "image_url": "https://img.utdstc.com/icon/fc5/c3b/fc5c3bb9553c9e722935198c09766008266e8bdfc60ee7b4fbaa103b522b0c58:200",
+    "image_url": "https://xenia.jp/images/logo-256x256.png",
     "title": "Xenia",
     "description": "محاكي Xbox 360",
     "url": "https://xenia.jp/",
@@ -152,7 +152,7 @@
     "requirements_urls": [""]
   },
   {
-    "image_url": "https://gbatemp.net/attachments/index-png.135590/",
+    "image_url": "https://cdn2.steamgriddb.com/grid/9db76b437676136f8c6f016d5a0f698b.png",
     "title": "CXBX-Reloaded",
     "description": "محاكي Xbox Original",
     "url": "https://cxbx-reloaded.co.uk/",
