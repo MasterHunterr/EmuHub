@@ -54,7 +54,7 @@
   {
     "image_url": "https://dolphin-emu.org/m/static/img/logo-blue.5ccd26e95428.png",
     "title": "Dolphin",
-    "description": "محاكي الوي",
+    "description": "محاكي الوي و GameCube",
     "url": "https://dolphin-emu.org/",
     "download_url": "https://dl.dolphin-emu.org/releases/2412/dolphin-2412-x64.7z",
     "requirements_urls": [""]
@@ -128,51 +128,107 @@
     "requirements_urls": [""]
   },
   {
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Desmume.png",
-    "title": "DeSmuME",
+    "image_url": "https://img.utdstc.com/icon/905/35a/90535a1f7b0ee571120e4a1a19067ab24b43b3702fe5870095bc7b689d575460:200",
+    "title": "FCEUX",
     "description": "محاكي Nintendo DS",
-    "url": "https://desmume.org/",
-    "download_url": "https://github.com/TASEmulators/desmume/releases/download/release_0_9_13/desmume-0.9.13-win64.zip",
+    "url": "https://fceux.com/web/download.html",
+    "download_url": "https://github.com/TASEmulators/fceux/releases/download/v2.6.6/fceux-2.6.6-win64.zip",
     "requirements_urls": [""]
   },
   {
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Desmume.png",
-    "title": "DeSmuME",
-    "description": "محاكي Nintendo DS",
-    "url": "https://desmume.org/",
-    "download_url": "https://github.com/TASEmulators/desmume/releases/download/release_0_9_13/desmume-0.9.13-win64.zip",
+    "image_url": "http://www.snes9x.com/phpbb3/styles/prosilver/theme/images/snes9x-logo.png",
+    "title": "SNES9x",
+    "description": "محاكي سوبر نينتندو",
+    "url": "https://www.snes9x.com/",
+    "download_url": "https://www.zophar.net/download_file/34556",
     "requirements_urls": [""]
   },
   {
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Desmume.png",
-    "title": "DeSmuME",
-    "description": "محاكي Nintendo DS",
-    "url": "https://desmume.org/",
-    "download_url": "https://github.com/TASEmulators/desmume/releases/download/release_0_9_13/desmume-0.9.13-win64.zip",
+    "image_url": "https://img.utdstc.com/icon/fc5/c3b/fc5c3bb9553c9e722935198c09766008266e8bdfc60ee7b4fbaa103b522b0c58:200",
+    "title": "Xenia",
+    "description": "محاكي Xbox 360",
+    "url": "https://xenia.jp/",
+    "download_url": "https://github.com/xenia-project/release-builds-windows/releases/latest/download/xenia_master.zip",
     "requirements_urls": [""]
   },
   {
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Desmume.png",
-    "title": "DeSmuME",
-    "description": "محاكي Nintendo DS",
-    "url": "https://desmume.org/",
-    "download_url": "https://github.com/TASEmulators/desmume/releases/download/release_0_9_13/desmume-0.9.13-win64.zip",
+    "image_url": "https://gbatemp.net/attachments/index-png.135590/",
+    "title": "CXBX-Reloaded",
+    "description": "محاكي Xbox Original",
+    "url": "https://cxbx-reloaded.co.uk/",
+    "download_url": "https://github.com/Cxbx-Reloaded/Cxbx-Reloaded/releases/download/CI-6f32d89/CxbxReloaded-Release-VS2019.zip",
+    "requirements_urls": ["https://aka.ms/vs/17/release/vc_redist.x86.exe"]
+  },
+  {
+    "image_url": "https://kega-fusion.com/wp-content/uploads/elementor/thumbs/Kega-Fusion-logo-qicbu92nrqlavaqsmigxdf3m5px48ynmcas8vqegao.png",
+    "title": "Kega Fusion",
+    "description": "محاكي Sega Genesis/Mega Drive",
+    "url": "https://kega-fusion.com/",
+    "download_url": "https://retrocdn.net/images/6/6c/Fusion364.7z",
     "requirements_urls": [""]
   },
   {
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Desmume.png",
-    "title": "DeSmuME",
-    "description": "محاكي Nintendo DS",
-    "url": "https://desmume.org/",
-    "download_url": "https://github.com/TASEmulators/desmume/releases/download/release_0_9_13/desmume-0.9.13-win64.zip",
+    "image_url": "https://mednafen.github.io/newlogo.png",
+    "title": "Mednafen",
+    "description": "محاكي Sega Saturn",
+    "url": "https://mednafen.github.io/",
+    "download_url": "https://mednafen.github.io/releases/files/mednafen-1.32.1-win64.zip",
     "requirements_urls": [""]
   },
   {
-    "image_url": "رابط_الصورة_2",
-    "title": "عنوان_المحاكي_2",
-    "description": "وصف_المحاكي_2",
-    "url": "رابط_تفاصيل_المحاكي_2",
-    "download_url": "رابط_تنزيل_المحاكي_2",
-    "requirements_urls": ["رابط_المتطلب_1_2", "رابط_المتطلب_2_2"]
+    "image_url": "https://static.wikia.nocookie.net/emulation-general/images/d/dc/Nulldc.png/revision/latest?cb=20130525150204",
+    "title": "NullDC",
+    "description": "محاكي Sega Dreamcast",
+    "url": "https://segaretro.org/NullDC",
+    "download_url": "https://retrocdn.net/images/e/e2/NullDC_104_r136.7z",
+    "requirements_urls": [""]
+  },
+  {
+    "image_url": "https://stella-emu.github.io/title.png",
+    "title": "Stella",
+    "description": "محاكي Atari 2600",
+    "url": "https://stella-emu.github.io/",
+    "download_url": "https://github.com/stella-emu/stella/releases/download/7.0/Stella-7.0c-x64.exe",
+    "requirements_urls": [""]
+  },
+  {
+    "image_url": "https://archive.org/serve/msdos_Tempest_2000_1996/Tempest_2000_1996_screenshot.gif",
+    "title": "Project Tempest",
+    "description": "محاكي Atari Jaguar",
+    "url": "http://pt.emuunlim.com/",
+    "download_url": "http://pt.emuunlim.com/PTv0.95.zip",
+    "requirements_urls": [""]
+  },
+  {
+    "image_url": "https://fourdo.com/images/FourDO_Weblogo.png",
+    "title": "4DO",
+    "description": "محاكي 3DO",
+    "url": "https://fourdo.com/",
+    "download_url": "https://github.com/MasterHunterr/xsimulators/raw/refs/heads/main/4DO_1.3.2.4.zip",
+    "requirements_urls": [""]
+  },
+  {
+    "image_url": "https://repository-images.githubusercontent.com/14303048/52791ac8-85d7-425b-aa5a-3e55dc8bf1d3",
+    "title": "MAME",
+    "description": "محاكي Arcade",
+    "url": "https://www.mamedev.org/",
+    "download_url": "https://github.com/mamedev/mame/releases/download/mame0274/mame0274b_64bit.exe",
+    "requirements_urls": [""]
+  },
+  {
+    "image_url": "https://www.winuae.net/wp-content/uploads/2016/12/winuea_v10.png",
+    "title": "WinUAE",
+    "description": "محاكي Amiga",
+    "url": "https://www.winuae.net/",
+    "download_url": "https://download.abime.net/winuae/releases/InstallWinUAE5310_x64.msi",
+    "requirements_urls": [""]
+  },
+  {
+    "image_url": "https://vice-emu.sourceforge.io/images/vice-logo.svg",
+    "title": "VICE",
+    "description": "محاكي Commodore 64",
+    "url": "https://vice-emu.sourceforge.io/",
+    "download_url": "https://sourceforge.net/projects/vice-emu/files/releases/binaries/windows/GTK3VICE-3.9-win64.zip/download",
+    "requirements_urls": [""]
   }
 ]
