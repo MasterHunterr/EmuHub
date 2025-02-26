@@ -42,24 +42,21 @@
     "title": "PPSSPP",
     "description": "Emulator PSP",
     "url": "https://www.ppsspp.org/",
-    "download_url": "https://www.ppsspp.org/files/1_18_1/PPSSPPSetup.exe",
-    "requirements_urls": [""]
+    "download_url": "https://www.ppsspp.org/files/1_18_1/PPSSPPSetup.exe"
   },
   {
     "image_url": "https://vita3k.org/img/logo.svg",
     "title": "Vita3K",
     "description": "Emulator Vita",
     "url": "https://vita3k.org/",
-    "download_url": "https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip?time=1740514062322",
-    "requirements_urls": [""]
+    "download_url": "https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip?time=1740514062322"
   },
   {
     "image_url": "https://dolphin-emu.org/m/static/img/logo-blue.5ccd26e95428.png",
     "title": "Dolphin",
     "description": "Emulator Wii and GameCubee",
     "url": "https://dolphin-emu.org/",
-    "download_url": "https://dl.dolphin-emu.org/releases/2412/dolphin-2412-x64.7z",
-    "requirements_urls": [""]
+    "download_url": "https://dl.dolphin-emu.org/releases/2412/dolphin-2412-x64.7z"
   },
   {
     "image_url": "https://avatars.githubusercontent.com/u/40145098?s=200&v=4",
@@ -110,48 +107,42 @@
     "title": "Citra",
     "description": "Emulator 3DS",
     "url": "https://citra-emulator.com/",
-    "download_url": "https://github.com/PabloMK7/citra/releases/download/r608383e/citra-windows-msvc-20240927-608383e.zip",
-    "requirements_urls": [""]
+    "download_url": "https://github.com/PabloMK7/citra/releases/download/r608383e/citra-windows-msvc-20240927-608383e.zip"
   },
   {
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Desmume.png",
     "title": "DeSmuME",
     "description": "Emulator Nintendo DS",
     "url": "https://desmume.org/",
-    "download_url": "https://github.com/TASEmulators/desmume/releases/download/release_0_9_13/desmume-0.9.13-win64.zip",
-    "requirements_urls": [""]
+    "download_url": "https://github.com/TASEmulators/desmume/releases/download/release_0_9_13/desmume-0.9.13-win64.zip"
   },
   {
     "image_url": "https://avatars.githubusercontent.com/u/4994272?s=48&v=4",
     "title": "Project64",
     "description": "Emulator Nintendo 64",
     "url": "https://www.pj64-emu.com/",
-    "download_url": "https://www.pj64-emu.com/file/setup-project64-3-0-1-5664-2df3434/",
-    "requirements_urls": [""]
+    "download_url": "https://www.pj64-emu.com/file/setup-project64-3-0-1-5664-2df3434/"
   },
   {
     "image_url": "https://hips.hearstapps.com/bpc.h-cdn.co/assets/17/35/fceux.jpg?crop=1xw:1.0xh;center,top&resize=980:*",
     "title": "FCEUX",
     "description": "Emulator NES",
     "url": "https://fceux.com/web/download.html",
-    "download_url": "https://github.com/TASEmulators/fceux/releases/download/v2.6.6/fceux-2.6.6-win64.zip",
-    "requirements_urls": [""]
+    "download_url": "https://github.com/TASEmulators/fceux/releases/download/v2.6.6/fceux-2.6.6-win64.zip"
   },
   {
     "image_url": "http://www.snes9x.com/phpbb3/styles/prosilver/theme/images/snes9x-logo.png",
     "title": "SNES9x",
     "description": "Emulator Super Nintendo",
     "url": "https://www.snes9x.com/",
-    "download_url": "https://www.zophar.net/download_file/34556",
-    "requirements_urls": [""]
+    "download_url": "https://www.zophar.net/download_file/34556"
   },
   {
     "image_url": "https://xenia.jp/images/logo-256x256.png",
     "title": "Xenia",
     "description": "Emulator Xbox 360",
     "url": "https://xenia.jp/",
-    "download_url": "https://github.com/xenia-project/release-builds-windows/releases/latest/download/xenia_master.zip",
-    "requirements_urls": [""]
+    "download_url": "https://github.com/xenia-project/release-builds-windows/releases/latest/download/xenia_master.zip"
   },
   {
     "image_url": "https://cdn2.steamgriddb.com/grid/9db76b437676136f8c6f016d5a0f698b.png",
@@ -166,71 +157,62 @@
     "title": "Kega Fusion",
     "description": "Emulator Sega Genesis/Mega Drive",
     "url": "https://kega-fusion.com/",
-    "download_url": "https://retrocdn.net/images/6/6c/Fusion364.7z",
-    "requirements_urls": [""]
+    "download_url": "https://retrocdn.net/images/6/6c/Fusion364.7z"
   },
   {
     "image_url": "https://mednafen.github.io/newlogo.png",
     "title": "Mednafen",
     "description": "Emulator Sega Saturn",
     "url": "https://mednafen.github.io/",
-    "download_url": "https://mednafen.github.io/releases/files/mednafen-1.32.1-win64.zip",
-    "requirements_urls": [""]
+    "download_url": "https://mednafen.github.io/releases/files/mednafen-1.32.1-win64.zip"
   },
   {
     "image_url": "https://static.wikia.nocookie.net/emulation-general/images/d/dc/Nulldc.png/revision/latest?cb=20130525150204",
     "title": "NullDC",
     "description": "Emulator Sega Dreamcast",
     "url": "https://segaretro.org/NullDC",
-    "download_url": "https://retrocdn.net/images/e/e2/NullDC_104_r136.7z",
-    "requirements_urls": [""]
+    "download_url": "https://retrocdn.net/images/e/e2/NullDC_104_r136.7z"
   },
   {
     "image_url": "https://stella-emu.github.io/title.png",
     "title": "Stella",
     "description": "Emulator Atari 2600",
     "url": "https://stella-emu.github.io/",
-    "download_url": "https://github.com/stella-emu/stella/releases/download/7.0/Stella-7.0c-x64.exe",
-    "requirements_urls": [""]
+    "download_url": "https://github.com/stella-emu/stella/releases/download/7.0/Stella-7.0c-x64.exe"
   },
   {
     "image_url": "https://archive.org/serve/msdos_Tempest_2000_1996/Tempest_2000_1996_screenshot.gif",
     "title": "Project Tempest",
     "description": "Emulator Atari Jaguar",
     "url": "http://pt.emuunlim.com/",
-    "download_url": "http://pt.emuunlim.com/PTv0.95.zip",
-    "requirements_urls": [""]
+    "download_url": "http://pt.emuunlim.com/PTv0.95.zip"
   },
   {
     "image_url": "https://fourdo.com/images/FourDO_Weblogo.png",
     "title": "4DO",
     "description": "Emulator 3DO",
     "url": "https://fourdo.com/",
-    "download_url": "https://github.com/MasterHunterr/xsimulators/raw/refs/heads/main/4DO_1.3.2.4.zip",
-    "requirements_urls": [""]
+    "download_url": "https://github.com/MasterHunterr/xsimulators/raw/refs/heads/main/4DO_1.3.2.4.zip"
   },
   {
     "image_url": "https://repository-images.githubusercontent.com/14303048/52791ac8-85d7-425b-aa5a-3e55dc8bf1d3",
     "title": "MAME",
     "description": "Emulator Arcade",
     "url": "https://www.mamedev.org/",
-    "download_url": "https://github.com/mamedev/mame/releases/download/mame0274/mame0274b_64bit.exe",
-    "requirements_urls": [""]
+    "download_url": "https://github.com/mamedev/mame/releases/download/mame0274/mame0274b_64bit.exe"
   },
   {
     "image_url": "https://www.winuae.net/wp-content/uploads/2016/12/winuea_v10.png",
     "title": "WinUAE",
     "description": "Emulator Amiga",
     "url": "https://www.winuae.net/",
-    "download_url": "https://download.abime.net/winuae/releases/InstallWinUAE5310_x64.msi",
-    "requirements_urls": [""]
+    "download_url": "https://download.abime.net/winuae/releases/InstallWinUAE5310_x64.msi"
   },
   {
     "image_url": "https://vice-emu.sourceforge.io/images/vice-logo.svg",
     "title": "VICE",
     "description": "Emulator Commodore 64",
     "url": "https://vice-emu.sourceforge.io/",
-    "download_url": "https://sourceforge.net/projects/vice-emu/files/releases/binaries/windows/GTK3VICE-3.9-win64.zip/download",
-    "requirements_urls": [""]
+    "download_url": "https://sourceforge.net/projects/vice-emu/files/releases/binaries/windows/GTK3VICE-3.9-win64.zip/download"
   }
 ]
