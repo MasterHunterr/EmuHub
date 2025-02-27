@@ -50,6 +50,9 @@
     "description": "Emulator Vita",
     "url": "https://vita3k.org/",
     "download_url": "https://github.com/Vita3K/Vita3K/releases/download/continuous/windows-latest.zip?time=1740514062322"
+    "requirements_urls": [
+      "http://dus01.psv.update.playstation.net/update/psv/image/2022_0209/rel_f2c7b12fe85496ec88a0391b514d6e3b/PSVUPDAT.PUP"
+    ]
   },
   {
     "image_url": "https://dolphin-emu.org/m/static/img/logo-blue.5ccd26e95428.png",
