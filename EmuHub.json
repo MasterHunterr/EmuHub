@@ -113,7 +113,7 @@
     "download_url": "https://github.com/PabloMK7/citra/releases/download/r608383e/citra-windows-msvc-20240927-608383e.zip"
   },
   {
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Desmume.png",
+    "image_url": "https://github.com/MasterHunterr/EmuHub/blob/main/Desmume.png?raw=true",
     "title": "DeSmuME",
     "description": "Emulator Nintendo DS",
     "url": "https://desmume.org/",
